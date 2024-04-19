@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "198172897157",
+    "project_id": "eijvconnect",
+    "storage_bucket": "eijvconnect.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:198172897157:android:2d0aad4e61702ef1dcdeec",
+        "android_client_info": {
+          "package_name": "fr.upjv.eijvconnect"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChtJ_5b95GUkZVtS682DzE0TYVm7BKFO8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
